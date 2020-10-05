@@ -1,3 +1,4 @@
+alert("Please Refresh Before Entering The Player Names.");
 var playerOne=prompt("Enter Player 1 Name: ");
 var playerSecond=prompt("Enter Player 2 Name: ");
 
